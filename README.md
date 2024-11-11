@@ -1,2 +1,4 @@
-# asis22k24proy2
-Repositorio oficial proyecto final curso de analisis de sistemas 2 UMG
+
+# PrototipoEF2024
+esto es un repositorio para el examen final del curso analisis de sistemas 2
+
